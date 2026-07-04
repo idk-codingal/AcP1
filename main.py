@@ -1,0 +1,1 @@
+print(float(input("Enter base: ")) ** int(input("Enter power: ")))
